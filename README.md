@@ -10,7 +10,7 @@ Here's a quick look at my focus areas:
 
 ⚡ Currently Building: A scalable serverless microservice architecture for e-commerce, focusing on optimal data fetching with Next.js.
 
-🤝 Seeking Collaboration: Open-source projects that emphasize web accessibility (A11Y) or innovative React Native applications.
+🤝 Seeking Collaboration: Open-source projects that emphasize web accessibility (A11Y) or innovative React applications.
 
 📚 Deepening Expertise In: Advanced cloud infrastructure, particularly Kubernetes and optimizing CI/CD pipelines on Vercel and DigitalOcean.
 
