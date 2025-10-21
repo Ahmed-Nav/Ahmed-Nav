@@ -40,7 +40,7 @@ I focus on modern, efficient development across the full stack.
 #### ☁️ Deployment & Cloud Services
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true )<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-Nav&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmed&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&theme=radical&hide_border=true&layout=compact&hide=Puppet)
 
