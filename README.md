@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed&label=PROFILE+VIEWS&color=2c2f33&style=for-the-badge" alt="Ahmed Profile Views" />
+</p>
+
 # 💫 About Me:
 👨‍💻 Hi there! I'm Ahmed.
 I'm a dedicated Full-Stack Developer specializing in the modern JavaScript ecosystem (MERN/JAMstack). My passion lies in engineering scalable and performant solutions, from robust back-end APIs to intuitive, responsive front-end user experiences. I thrive on solving complex technical challenges and leveraging tools like Next.js and TypeScript to deliver high-quality code.
@@ -36,8 +40,8 @@ I focus on modern, efficient development across the full stack.
 #### ☁️ Deployment & Cloud Services
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" )<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true )<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmed&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&theme=radical&hide_border=true&layout=compact&exclude_repo=REPO_1,REPO_2,REPO_3")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&theme=radical&hide_border=true&layout=compact&hide=Puppet)
 
 
