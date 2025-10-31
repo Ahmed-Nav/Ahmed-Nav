@@ -8,13 +8,13 @@ I'm a dedicated Full-Stack Developer specializing in the modern JavaScript ecosy
 
 Here's a quick look at my focus areas:
 
-⚡ Currently Building: A scalable serverless microservice architecture for e-commerce, focusing on optimal data fetching with Next.js.
+⚡ Currently Building: A personalized project management system, engineered as a full-scale system design challenge to consolidate full-stack, DevOps, and cloud-native skills.
 
 🤝 Seeking Collaboration: Open-source projects that emphasize web accessibility (A11Y) or innovative React applications.
 
 📚 Deepening Expertise In: Advanced cloud infrastructure, particularly Kubernetes and optimizing CI/CD pipelines on Vercel and DigitalOcean.
 
-💬 Ask Me About: Full-stack architecture, clean code principles, mobile-first design, and integrating modern JavaScript frameworks.
+💬 **Ask Me About:** Full-stack architecture, event-driven design with Kafka, microservices, clean code principles, and integrating modern JavaScript frameworks.
 
 💡 Fun Fact: I approach code like architecture—every component must be well-designed, functional, and easily maintained.
 
@@ -31,14 +31,15 @@ For general networking and quick chats:<br/>
 
 I focus on modern, efficient development across the full stack.
 
-#### 🚀 Core Development
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/> 
+#### 🚀 Front-End & Core
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](httpss://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### 🗄️ Database & Design Tools <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+#### 🗄️ Back-End, Databases & Messaging <br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-#### ☁️ Deployment & Cloud Services
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+#### ☁️ DevOps & Cloud
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahmed-Nav&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmed&theme=radical&hide_border=true)<br/>
